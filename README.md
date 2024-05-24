@@ -1,7 +1,7 @@
 # 📊 ANÁLISIS DE RENTABILIDAD PLATAFORMA DE TRANSPORTE 📈
 
 ## 📝 Descripción del Proyecto
-Este proyecto utiliza **SQLite** y **Python** como herramientas para analizar los márgenes de ganancia y comparar la rentabilidad entre estar asociado o no a una plataforma de transporte. El objetivo es identificar patrones y proporcionar insights que ayuden a identificar el escenario mas rentable.
+Este proyecto utiliza **SQLite** y **Python** como herramientas para analizar los márgenes de ganancia y comparar la rentabilidad entre estar asociado o no a una plataforma de transporte. El objetivo es identificar patrones y proporcionar insights que ayuden a determinar el escenario mas rentable.
 
 FUENTE DE DATOS: https://platform.stratascratch.com/data-projects/partner-business-modeling
 
